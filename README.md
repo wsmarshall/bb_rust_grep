@@ -1,2 +1,2 @@
 # bb_rust_grep
-a bare-bones didactid implementation of grep
+a bare-bones didactic implementation of grep
